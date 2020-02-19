@@ -21,10 +21,6 @@ Github Clone
 
 <hr />
 
-## Getting started
-
-Clone this repo and run `yarn start`
-
 
 ## License
 
