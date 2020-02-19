@@ -21,11 +21,6 @@ Github Clone
 
 <hr />
 
-## Features
-[//]: # (Add the features of your project here:)
-
-- ⚛️ **React Js** — A JavaScript library for building user interfaces
-
 ## Getting started
 
 Clone this repo and run `yarn start`
